@@ -4,7 +4,7 @@
 
 * [1. Intro](https://github.com/FernandaSanchezl/clondegoogle#1-intro)
 * [2. Que construí](https://github.com/FernandaSanchezl/clondegoogle#2-qu%C3%A9-constru%C3%AD)
-* [3. Objetivo del proyecto](https://github.com/FernandaSanchezl/clondegoogle/blob/main/README.md#3-objetivo-del-proyecto)
+* [3. Objetivo del proyecto](https://github.com/FernandaSanchezl/clondegoogle#3-objetivo-del-proyecto)
 
 ****
 
